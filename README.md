@@ -1,4 +1,4 @@
-# Contrastive Learning for Microbiome-Metabolome Alignment
+# Contrastive Learning for Multimodal Data
 
 This repository contains the official implementation and tutorial code for the paper: 
 **"Contrastive Learning for Multimodal Data"**
